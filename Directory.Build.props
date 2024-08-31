@@ -6,5 +6,8 @@
   <PropertyGroup>
     <LangVersion>latest</LangVersion>
     <NoWarn>NU1507;NU1008</NoWarn>
+    <IsAotCompatible>true</IsAotCompatible>
+    <WindowsSdkPackageVersion>10.0.22621.42</WindowsSdkPackageVersion>
+    <CsWinRTWindowsMetadata>10.0.22621.0</CsWinRTWindowsMetadata>
   </PropertyGroup>
 </Project>

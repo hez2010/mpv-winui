@@ -71,7 +71,7 @@ public partial class MpvRenderContextNative
         {
             mpv_render_context_free(Handle);
         }
-        catch (Exception)
+        catch
         {
         }
     }
